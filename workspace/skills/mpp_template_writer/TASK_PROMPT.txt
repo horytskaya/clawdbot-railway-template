@@ -1,0 +1,16 @@
+Generate MPP project content using the mandatory file "New MPP Template.txt".
+
+Follow the active MPP skill exactly.
+
+Primary source:
+[PASTE OFFICIAL PDF TEXT OR VERIFIED SOURCE TEXT HERE]
+
+Approved verified links:
+[PASTE LINKS HERE IF AVAILABLE]
+
+Requirements:
+- use the exact template structure
+- fill every field in order
+- use TBA where required
+- do not add commentary
+- return only the completed template
