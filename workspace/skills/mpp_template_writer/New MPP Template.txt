@@ -1,0 +1,52 @@
+Meta title:
+
+Meta description:
+
+Url Slug
+
+Image Alt Tag
+
+Keywords
+
+Hero Section
+
+Project name
+
+Main Heading/ H1 (~ 60sym including spaces)
+
+Subtitle (~ 250sym including spaces)
+
+Project Overview (650 sym)
+
+Project Card
+
+Number of Units
+Handover (only year and quarter) (f.e.: 2030 Q1)
+Payment Plan (Only numbers, f.e: 50/50)
+Area from (only numbers allowed)
+Property Type
+Bedrooms
+Developer
+Location
+
+Payment Plan
+
+On Booking (only numbers allowed)
+On Construction (only numbers allowed)
+On Handover (only numbers allowed)
+
+Key points (Amenities)
+
+First key amenity (sth unique)  (~ 60sym including spaces)
+
+Description in 1-2 sentences (~ 600sym including spaces)
+
+Second key amenity (sth unique)  (~ 60sym including spaces)
+
+Description in 1-2 sentences (~ 600sym including spaces)
+
+Amenities (List) ( Tab All Amenities)
+
+The rest of amenities should be listed below
+
+FAQ (There are no specific limits)
